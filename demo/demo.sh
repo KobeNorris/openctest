@@ -1,6 +1,6 @@
 # # Set up project
 cd ../core
-./add_project.sh hadoop-yarn-tls
+# ./add_project.sh hadoop-yarn-tls
 
 # Run one PASS and one FAIL CTest
 cd run_ctest
